@@ -1,0 +1,15 @@
+{
+  "name": "krish-desktop-app",
+  "version": "0.1.0",
+  "main": "main.js",
+  "description": "My First Electron App",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krish",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.0.1"
+  }
+}
